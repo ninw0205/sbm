@@ -61,7 +61,7 @@ export const {
   trustHost: true,
   jwt: { maxAge: 30 * 60 },
   pages: {
-    // signIn: "/sign",
+    signIn: "/sign",
     error: "/sign/error",
   },
   session: {
