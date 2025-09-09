@@ -11,8 +11,8 @@ export function NaverLoginButton() {
         className="h-6 w-6"
         viewBox="0 0 24 24"
         fill="white"
+        aria-hidden="true"
       >
-        <title>Naver</title>
         <path d="M4 4h5.37l5.26 8.28V4H20v16h-5.37l-5.26-8.28V20H4z" />
       </svg>
       <span className="font-medium text-sm">Naver</span>
